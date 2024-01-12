@@ -56,7 +56,7 @@
         ".\\src/assets/libs/ui/ui-icon-helm/src/index.ts"
       ],
       "@spartan-ng/ui-input-helm": [
-        ".\\src/assets/libs/ui/ui-input-helm/src/index.ts"
+        "./src/assets/libs/ui/ui-input-helm/src/index.ts"
       ],
       "@spartan-ng/ui-label-helm": [
         ".\\src/assets/libs/ui/ui-label-helm/src/index.ts"
