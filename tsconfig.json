@@ -41,7 +41,7 @@
         ".\\src/assets/libs/ui/ui-badge-helm/src/index.ts"
       ],
       "@spartan-ng/ui-button-helm": [
-        ".\\src/assets/libs/ui/ui-button-helm/src/index.ts"
+        "./src/assets/libs/ui/ui-button-helm/src/index.ts"
       ],
       "@spartan-ng/ui-card-helm": [
         ".\\src/assets/libs/ui/ui-card-helm/src/index.ts"
